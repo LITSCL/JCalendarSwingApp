@@ -62,7 +62,7 @@ public class StartFrame extends JFrame {
 				
 				System.out.println("El dia seleccionado es: " + dia);
 				System.out.println("El mes seleccionado es: " + mes);
-				System.out.println("El a�o seleccionado es: " + year);
+				System.out.println("El año seleccionado es: " + year);
 				
 			}
 		});
